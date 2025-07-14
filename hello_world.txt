@@ -1,0 +1,1 @@
+In de tekst file hello_world.txt zet ik: "Hallo, wereld!"
